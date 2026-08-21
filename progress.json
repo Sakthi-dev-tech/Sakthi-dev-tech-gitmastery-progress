@@ -251,5 +251,14 @@
       "Did not add bob.txt"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787277650.328398,
+    "completed_at": 1787277651.871181,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
   }
 ]
