@@ -296,14 +296,5 @@
     "completed_at": 1787277855.446036,
     "comments": [],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787649334.288088,
-    "completed_at": 1787649337.772416,
-    "comments": [
-      "You do not have 2 commits on the bug-fix branch"
-    ],
-    "status": "Incomplete"
   }
 ]
