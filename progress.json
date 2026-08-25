@@ -441,5 +441,14 @@
       "Remote branch STU still exists."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787653321.328572,
+    "completed_at": 1787653325.657411,
+    "comments": [
+      "Remote branch STU still exists."
+    ],
+    "status": "Incomplete"
   }
 ]
